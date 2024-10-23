@@ -18,8 +18,8 @@ const Searchform = ({ searchText }) => {
     setText(e.target.value);
     searchText(e.target.value);
     if (e.target.value === "") {
-      setText("Ruskin Bond");
-      searchText("Ruskin Bond");
+      setText("APJ");
+      searchText("APJ");
     }
   };
 

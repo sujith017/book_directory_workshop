@@ -11,11 +11,10 @@ const Footer = () => {
               textDecoration: "underline",
               color: "white",
             }}
-            href="https://jatiinyadav.github.io"
             target="_blank"
             rel="noreferrer"
           >
-            Jatin Yadav
+            Sujith B
           </a>
         </h4>
       </footer>
