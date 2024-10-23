@@ -1,5 +1,4 @@
 import React from "react";
-import GithubLogo from "./img/Github.svg";
 import "../src/sass/style.css";
 
 const Header = () => {
@@ -21,7 +20,7 @@ const Header = () => {
               textShadow: "2px 2px 3px #b0b0b0",
             }}
           >
-            A Book Library for all Book Lovers
+            Book Xplorer
           </h2>
         </strong>
       </div>
