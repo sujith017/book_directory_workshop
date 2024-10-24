@@ -8,12 +8,14 @@
     "@testing-library/user-event": "^12.8.3",
     "axios": "^0.21.4",
     "framer-motion": "^4.1.17",
-    "react": "^17.0.2",
-    "react-backdrop-filter": "^2.1.0",
-    "react-dom": "^17.0.2",
-    "react-icons": "^4.2.0",
+    "react": "^18.3.1",
+    "react-bootstrap": "^2.10.5",
+    "react-dom": "^18.3.1",
+    "react-icons": "^4.12.0",
+    "react-router-dom": "^6.27.0",
     "react-script-tag": "^1.1.2",
     "react-scripts": "4.0.3",
+    "react-toastify": "^10.0.6",
     "web-vitals": "^1.1.2"
   },
   "scripts": {
